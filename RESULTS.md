@@ -4,7 +4,7 @@
 
 | Machine | GPU/Chip | Memory |
 |---------|----------|--------|
-| Lucebox | NVIDIA RTX 3090 (24GB VRAM) | 32GB RAM |
+| Lucebox | NVIDIA RTX 3090 | 24GB VRAM |
 | MacBook Pro | Apple M5 Max | 36GB Unified |
 
 ## RTX 3090: pp520 tg128
